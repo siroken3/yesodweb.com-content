@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+
+<map id="book" title="Yesod Web Framework Book">
+    <topichead navtitle="基礎">
+        <topicref href="chapters/introduction_ja.dita" navtitle="イントロダクション">
+        </topicref>
+        <topicref href="chapters/haskell_ja.dita" navtitle="Haskell">
+        </topicref>
+        <topicref href="chapters/basics_ja.dita" navtitle="Yesodの基本">
+        </topicref>
+        <topicref href="chapters/shakespearean-templates_ja.dita" navtitle="Shakespearean Templates">
+        </topicref>
+        <topicref href="chapters/widgets_ja.dita" navtitle="Widgets">
+        </topicref>
+        <topicref href="chapters/yesod-typeclass_ja.dita" navtitle="Yesod型クラス">
+        </topicref>
+        <topicref href="chapters/routing-and-handlers_ja.dita" navtitle="Routing and Handlers">
+        </topicref>
+        <topicref href="chapters/forms_ja.dita" navtitle="Forms">
+        </topicref>
+        <topicref href="chapters/sessions_ja.dita" navtitle="Sessions">
+        </topicref>
+        <topicref href="chapters/persistent_ja.dita" navtitle="永続化">
+        </topicref>
+        <topicref href="chapters/deploying-your-webapp_ja.dita" navtitle="Webアプリのデプロイ">
+        </topicref>
+    </topichead>
+    <topichead navtitle="Advanced">
+        <topicref href="chapters/restful-content_ja.dita" navtitle="RESTful Content">
+        </topicref>
+        <topicref href="chapters/yesods-monads_ja.dita" navtitle="Yesod's Monads">
+        </topicref>
+        <topicref href="chapters/authentication-and-authorization_ja.dita" navtitle="Authentication and Authorization">
+        </topicref>
+        <topicref href="chapters/scaffolding-and-the-site-template_ja.dita" navtitle="Scaffolding and the Site Template">
+        </topicref>
+        <topicref href="chapters/internationalization_ja.dita" navtitle="Internationalization">
+        </topicref>
+        <topicref href="chapters/creating-a-subsite_ja.dita" navtitle="Creating a Subsite">
+        </topicref>
+    </topichead>
+    <topichead navtitle="Examples">
+        <topicref href="chapters/blog-example-advanced_ja.dita" navtitle="Blog: i18n, authentication, authorization, and database">
+        </topicref>
+        <topicref href="chapters/wiki-chat-example_ja.dita" navtitle="Wiki: markdown, chat subsite, event source">
+        </topicref>
+        <topicref href="chapters/json-web-service_ja.dita" navtitle="JSON Web Service">
+        </topicref>
+        <topicref href="chapters/case-study-sphinx_ja.dita" navtitle="Case Study: Sphinx-based Search">
+        </topicref>
+    </topichead>
+    <topichead navtitle="付録">
+        <topicref href="chapters/monad-control_ja.dita" navtitle="monad-control">
+        </topicref>
+        <topicref href="chapters/conduits_ja.dita" navtitle="Conduit">
+        </topicref>
+        <topicref href="chapters/web-application-interface_ja.dita" navtitle="Web Application Interface">
+        </topicref>
+        <topicref href="chapters/settings-types_ja.dita" navtitle="Settings Types">
+        </topicref>
+        <topicref href="chapters/http-conduit_ja.dita" navtitle="http-conduit">
+        </topicref>
+        <topicref href="chapters/xml_ja.dita" navtitle="xml-conduit">
+        </topicref>
+        <topicref href="chapters/enumerator-package_ja.dita" navtitle="Enumerator Package">
+        </topicref>
+    </topichead>
+</map>
